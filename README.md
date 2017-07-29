@@ -1,4 +1,4 @@
-#vagrantfix
+This is a fix for Vagrant, an annoying one for me at least, some people may not have it. 
 
 I'll run <pre>vagrant up ubuntu/trusty64 --provider virtualbox</pre>
 
